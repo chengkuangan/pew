@@ -6,15 +6,13 @@
 	/ 3. Test drive Red Hat Developer Hub
 	/ 3.4 Developer Activity: Create a new Component from the Template**
 
-- Link is not correct:
-
-	Platform Engineering Workshop
-	/ 3. Test drive Red Hat Developer Hub
-	/ 3.4 Developer Activity: Create a new Component from the Template
+- Links are not correct:
+	
+	- `Component's catalog-info.yaml file` link is not correct
 	
 	![](link-1.png)
 	
-	Click on the link shows error with this url:
+	- `rhdh-gitops ArgoCD Aopplication` link is not correct. Click on the link shows error with this url:
 	```
 	https://showroom-showroom.apps.cluster-z6kkw.z6kkw.sandbox977.opentlc.com/
 	```
@@ -28,7 +26,7 @@
 	![](build-error-3.png)
 	
 	
-- error running git clone:
+	- error running git clone:
 
 
 ```

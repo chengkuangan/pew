@@ -31,8 +31,8 @@
 - error running git clone:
 
 
-	```
-	Running Script /scripts/prepare.sh
+```
+Running Script /scripts/prepare.sh
 ---> Phase: Preparing the filesystem before cloning the repository...
 ---> Phase: Deleting all contents of checkout-dir '/workspace/output/'...
 Running Script /scripts/git-run.sh
@@ -52,5 +52,5 @@ Running Script /scripts/report.sh
 ---> Phase: Reporting parsed revision SHA 'b37feae23905db41ece20fd2a1da993251f6d5a0'...
 ---> Phase: Reporting repository URL 'https://gitlab-gitlab.apps.cluster-z6kkw.z6kkw.sandbox977.opentlc.com/dev1/my-quarkus-app.git'...
 
-	```
+```
 

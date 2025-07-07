@@ -27,7 +27,9 @@
 	![](build-error-2.png)
 	![](build-error-3.png)
 	
+	
 - error running git clone:
+
 
 	```
 	Running Script /scripts/prepare.sh
@@ -52,4 +54,3 @@ Running Script /scripts/report.sh
 
 	```
 
-- ...

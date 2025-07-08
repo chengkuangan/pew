@@ -6,7 +6,7 @@
 	/ 3. Test drive Red Hat Developer Hub
 	/ 3.4 Developer Activity: Create a new Component from the Template**
 
-- Links are not correct:
+1. Links are not correct: 
 	
 	- `Component's catalog-info.yaml file` link is not correct
 	
@@ -19,7 +19,8 @@
 
 	![](link-2.png)
 	
-- Pipeline is not ran automatically and when run it manually from OCP console, the following error:
+2. Pipeline is not ran automatically and when run it manually from OCP console, the following error: <b><font style="color:red">SOLVED</font></b>
+
 
 	![](build-error-1.png)
 	![](build-error-2.png)
@@ -52,3 +53,24 @@ Running Script /scripts/report.sh
 
 ```
 
+--
+
+
+**Platform Engineering Workshop / 
+4. Accelerate Developer Inner-Loop / 
+4.2 Platform Engineer Activity: Software Templates to Import Existing Components** 
+
+<b><font style="color:green">NEW</font></b>
+
+- `Register the Import API Software Template` step is redandunt because the template is already registered in the RHDH when it is provisioned.
+
+
+**Platform Engineering Workshop /
+5. Setup Build, Test, & Deploy Outer-Loop
+/ 5.1 Developer Activity: Merge request from feature branch to main / Developer Activity: Merge the Merge Request from feature branch**
+
+<b><font style="color:green">NEW</font></b>
+
+After clicking on the `Merge`button, nothing happens, i.e. no new pipeline created
+
+![](parasol-store-pipelines.png) 
